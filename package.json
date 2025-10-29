@@ -1,7 +1,7 @@
 {
-  "name": "SHAHADAT CHAT BOT",
+  "name": "KING HASIB ",
   "version": "10.1.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By KING HASIB",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -27,7 +27,7 @@
     "cybersahu",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "KING HASIB",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
