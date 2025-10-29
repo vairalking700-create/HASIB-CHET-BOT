@@ -50,7 +50,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 ➤ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 :KING HASIB
 ➤ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸    : www.facebook.com/61573769204773
 ➤ 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿  : m.me/61573769204773
-➤ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽    : https://wa.me/+8801882333052
+➤ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽    : https://wa.me/+966576925187
 
 🌟━━━━━━━━━━━━━━━━━🌟
 　　　　𝗧𝗵𝗮𝗻𝗸 𝗬𝗼𝘂 𝗙𝗼𝗿 𝗨𝘀𝗶𝗻𝗴!
