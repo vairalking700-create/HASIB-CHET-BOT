@@ -9,7 +9,7 @@
 Assalamualaikum Everyone!  
 **Welcome to KING HASIB Fork!**
 
-![Box-shaped Image](https://www.facebook.com/100001207035597/posts/25100506949572860/?substory_index=2652137585131685&app=fbl)
+![Box-shaped Image]https://www.facebook.com/100001207035597/posts/25100506949572860/?substory_index=2652137585131685&app=fbl
 
 <p align="center" style="aanimation glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">KING HASIB</span><br>
@@ -137,7 +137,7 @@ ___
 ## 👨‍💻 **ABOUT THE DEVELOPER**  
   
 **Name:** **`KING HASIB`**  
-**Nice Name:** **`SA HU`**  
+**Nice Name:** **`HASIB**  
 **Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
 **Location:** **`MYMENSHINGH, BANGLADESH`**  
 
@@ -168,7 +168,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
   <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100001039692046">
+  <a href="https://m.me/100001207035597">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -196,8 +196,8 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 <p align="center">
   <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://wa.me/100001207035597"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://facebook.com/100001207035597"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
   <a href="https://t.me/+8EtzLXVG-REwYTM1"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
   <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
