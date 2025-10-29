@@ -5,7 +5,7 @@ const baseApiUrl = async () => {
   const base = await axios.get("https://raw.githubusercontent.com/cyber-ullash/cyber-ullash/refs/heads/main/UllashApi.json");
   return base.data.api;
 };
-
+।
 module.exports = {
   config: {
     name: "youtube",
