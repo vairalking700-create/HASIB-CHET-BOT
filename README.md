@@ -7,13 +7,13 @@
 
 
 Assalamualaikum Everyone!  
-**Welcome to My SHAHADAT CHAT BOT Fork!**
+**Welcome to KING HASIB Fork!**
 
 ![Box-shaped Image](https://www.facebook.com/100001207035597/posts/25100506949572860/?substory_index=2652137585131685&app=fbl)
 
 <p align="center" style="aanimation glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">SHAHADAT CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span style="font-size: 24px; font-weight: bold;">KING HASIB</span><br>
+  <span> Develop By KING HASIB</span>
 </p>
 
 
