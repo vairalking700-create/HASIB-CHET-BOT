@@ -2,7 +2,7 @@ module.exports.config = {
   name: "bot",
   version: "1.0.0",
   hasPermission: 0,
-  credits: "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦",
+  credits: "KING HASIB",
   description: "Random fun reply when someone says Bot",
   commandCategory: "Fun",
   usages: "[Bot]",
